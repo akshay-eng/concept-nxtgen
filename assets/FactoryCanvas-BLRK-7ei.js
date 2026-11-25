@@ -1,4 +1,4 @@
-import{C as e,_ as t,b as n,g as r,i,m as a,n as o,o as s,p as c,r as l,t as u,u as d,y as f}from"./dist-DMh6L4sC.js";import{c as p,p as m,u as h}from"./index-ABZ_Qd_5.js";var g=m(h(),1),_=p(),v=18,y=.78,b=1.15,x={w:.7,h:2.15,d:1.05},S=22,C=`
+import{C as e,_ as t,b as n,g as r,i,m as a,n as o,o as s,p as c,r as l,t as u,u as d,y as f}from"./dist-t4K2qGjo.js";import{c as p,p as m,u as h}from"./index-C_REtTef.js";var g=m(h(),1),_=p(),v=18,y=.78,b=1.15,x={w:.7,h:2.15,d:1.05},S=22,C=`
   attribute float aSeed;
   attribute float aHue;
   varying float vSeed;
