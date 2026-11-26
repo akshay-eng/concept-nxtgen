@@ -1,4 +1,4 @@
-import{C as e,S as t,a as n,b as r,c as i,d as a,h as o,i as s,l as c,n as l,o as u,r as d,t as f,u as p,x as m,y as h}from"./dist-DxCDnTrR.js";import{c as g,p as _,u as v}from"./index-DBKKezGf.js";var y=_(v(),1),b=g(),x=1;function S(t,n,r=x){let i=(n+180)/360*Math.PI*2,a=(90-t)/180*Math.PI;return new e(-Math.cos(i)*Math.sin(a)*r,Math.cos(a)*r,Math.sin(i)*Math.sin(a)*r)}var C=`
+import{C as e,S as t,a as n,b as r,c as i,d as a,h as o,i as s,l as c,n as l,o as u,r as d,t as f,u as p,x as m,y as h}from"./dist-BEeqdw4q.js";import{c as g,p as _,u as v}from"./index-D14EEFB5.js";var y=_(v(),1),b=g(),x=1;function S(t,n,r=x){let i=(n+180)/360*Math.PI*2,a=(90-t)/180*Math.PI;return new e(-Math.cos(i)*Math.sin(a)*r,Math.cos(a)*r,Math.sin(i)*Math.sin(a)*r)}var C=`
   varying vec2 vUv;
   varying vec3 vNormalW;
   varying vec3 vPosW;
